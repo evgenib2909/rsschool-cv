@@ -1,0 +1,51 @@
+h1 {
+    font-size: 80px;
+    color: white;
+   }
+
+ul {
+    list-style: none;
+   }
+
+a {
+    text-decoration: none;
+}
+
+.preview {
+    width: 1440px;
+    height: 765px;
+    background: url('./assets/ipg/garrett-parker.jpg') 100% 100% no-repeat;
+    background-size: cover;
+    background-position: center -90px;
+    }
+
+.header {
+    width: 1440px;
+    height: 90px;
+    background: url('./assets/ipg/garrett-parker.jpg') 100% 100% no-repeat;
+    background-size: cover;
+    background-position: top;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    }
+
+.nav {
+    color: white;
+    background-color: F2785C;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 75px;
+}
+
+.TP {
+    color: white;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 75px;
+}

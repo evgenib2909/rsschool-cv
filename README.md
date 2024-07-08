@@ -1,2 +1,2 @@
-https://github.com/evgenib2909/rsschool-cv.git
-https://github.com/evgenib2909/rsschool-cv.git
+https://evgenib2909.io/rsschool-cv/
+https://evgenib2909.io/rsschool-cv/cv

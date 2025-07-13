@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+     <title>Eugenia Burachenok</title>
     <link rel="stylesheet" href="Style.css">
-    <title>Eugenia Burachenok</title>
-   </head>
+      </head>
 <body>
     <header>
         <img src="19b9f805d035b84a331d0f22953557ed.jpg" id="icon" alt="cat" style="width: 100px; height: 100px; border-radius: 1000px;">
